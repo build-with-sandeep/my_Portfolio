@@ -51,9 +51,7 @@
 
 				<a class="link" href="#" ><img src="https://img.icons8.com/metro/48/000000/twitter.png"/></a>
 				
-				<a href=""></a>
-				<a href=""></a>
-				<a href=""></a>
+				
 			</div>
 			
 			

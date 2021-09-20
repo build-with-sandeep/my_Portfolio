@@ -47,7 +47,7 @@
 			<div class="mt-6 pb-16 lg:pb-0 w-4/5 lg:w-full mx-auto flex flex-wrap items-center justify-between">
 				<a  class ="link" href="https://www.linkedin.com/in/sandeep-maji-a1578b1b4/"><img src="https://img.icons8.com/metro/42/000000/linkedin.png"></a>
 
-				<a class="link" href="#" ><img src="https://img.icons8.com/metro/48/000000/github.png"/></a>
+				<a class="link" href="https://github.com/build-with-sandeep" ><img src="https://img.icons8.com/metro/48/000000/github.png"/></a>
 
 				<a class="link" href="#" ><img src="https://img.icons8.com/metro/48/000000/twitter.png"/></a>
 				
